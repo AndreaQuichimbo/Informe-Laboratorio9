@@ -111,6 +111,10 @@ Se puede usar la representación fasorial cuando:
 
 # 6 CONCLUSIONES 
 
+- Un fasor es una representación gráfica de un número complejo que se utiliza para representar una oscilación, de forma que el fasor suma de varios fasores puede representar la magnitud y fase de la oscilación resultante de la superposición de varias oscilaciones en un proceso de interferencia.
+- Los fasores se utilizan directamente en ingeniería eléctrica, óptica, ingeniería de telecomunicaciones y acústica. La longitud del fasor da la amplitud y el ángulo entre el mismo y el eje-x la fase angular. Debido a las propiedades de la matemática de oscilaciones, en electrónica los fasores se utilizan habitualmente en el análisis rudimentario de circuitos en AC. Finalmente, los fasores pueden ser utilizados para describir el movimiento de un oscilador. 
+
+
 # 7 BIBLIOGRAFÍAS
 
 ANÁLISIS DE CIRCUITOS Y SISTEMAS LINEALES. (s.f.). Obtenido de https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_07.htm
