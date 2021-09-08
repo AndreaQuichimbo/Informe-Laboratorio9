@@ -44,7 +44,7 @@ Ing. Darwin Omar Alulema Flores
   
 **FASORES**
 
-![image](https://user-images.githubusercontent.com/84430867/132425443-43050d62-be0e-461f-8373-a1e3b3addb8c.png)
+![image](https://user-images.githubusercontent.com/84430867/132438301-0357bb1f-fe24-47f9-9016-bc3b7dae4445.png)
 
 </div>
 
