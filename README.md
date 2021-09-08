@@ -30,7 +30,7 @@ Ing. Darwin Omar Alulema Flores
 
 1.1.1. Objetivo general
 
-- Conocer la relación entre reactancias inductivas y capacitivas de manera fasorial, comparar los resultados teórico.s
+- Conocer la relación entre reactancias inductivas y capacitivas de manera fasorial, comparar los resultados teóricos.
 
 1.1.2. Objetivos específicoso
 
