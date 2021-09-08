@@ -38,6 +38,10 @@ Ing. Darwin Omar Alulema Flores
 - Resolver problemas de circuitos eléctricos utilizando fasores y diagramas fasoriales.
 - Conocer la importancia y la aplicación de fasores en circuitos eléctricos de corrientealterna.
 
+**1.2. REQUISITOS PREVIOS**
+
+Investigue: el concepto de fasor en su forma rectangular y polar. Así mismo su representación gráfica.
+
 **1.2. INFORMACIÓN GENERAL**
 
 <div align="center">
