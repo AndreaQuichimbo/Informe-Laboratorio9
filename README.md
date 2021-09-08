@@ -114,8 +114,17 @@ Se puede usar la representación fasorial cuando:
 - Un fasor es una representación gráfica de un número complejo que se utiliza para representar una oscilación, de forma que el fasor suma de varios fasores puede representar la magnitud y fase de la oscilación resultante de la superposición de varias oscilaciones en un proceso de interferencia.
 - Los fasores se utilizan directamente en ingeniería eléctrica, óptica, ingeniería de telecomunicaciones y acústica. La longitud del fasor da la amplitud y el ángulo entre el mismo y el eje-x la fase angular. Debido a las propiedades de la matemática de oscilaciones, en electrónica los fasores se utilizan habitualmente en el análisis rudimentario de circuitos en AC. Finalmente, los fasores pueden ser utilizados para describir el movimiento de un oscilador. 
 - Se pudo reforzar lo expuesto en clase mediante ejercicios básicos resueltos y de esta manera poder despejar cualquier duda generada en nuestros compañeros.
+- La fase angular de la tensión en una red eléctrica tiene especial interés, entre otras cosas, en la gestión de sistemas eléctricos, debido a que el flujo de potencia reactiva en una línea eléctrica es proporcional al coseno de la diferencia de fase entre las tensiones en los dos terminales de la línea. 
 
 
 # 7 BIBLIOGRAFÍAS
 
 ANÁLISIS DE CIRCUITOS Y SISTEMAS LINEALES. (s.f.). Obtenido de https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_07.htm
+
+Analisis senoidal en estado estable. (s.f.). Obtenido de https://gc.scalahed.com/recursos/files/r145r/w320w/U4liga4.htm
+
+Gutiérrez, O. H. (s.f.). Análisis de Circuitos Eléctricos. Obtenido de Fasores: https://circuitoselectricosac.blogspot.com/p/12-fasores.html
+
+Sistemas de Control – Análisis de Señales y Sistemas – Procesamiento de Señales – Ingeniería Eléctrica. (08 de 04 de 2019). Obtenido de Representación Fasorial de corrientes y voltajes – Fasores: https://dademuch.com/2019/04/08/representacion-fasorial-de-corrientes-y-voltajes-fasores/
+
+
