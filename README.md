@@ -30,15 +30,15 @@ Ing. Darwin Omar Alulema Flores
 
 1.1.1. Objetivo general
 
-
+- Conocer la relación entre reactancias inductivas y capacitivas de manera fasorial, comparar los resultados teórico.s
 
 1.1.2. Objetivos específicoso
 
+- Familiarizar conceptos básicos que engloben el tema fasores.
+- Resolver problemas de circuitos eléctricos utilizando fasores y diagramas fasoriales.
+- Conocer la importancia y la aplicación de fasores en circuitos eléctricos de corrientealterna.
 
-**1.2. REQUISITOS PREVIOS**
-
-
-**1.3. INFORMACIÓN GENERAL**
+**1.2. INFORMACIÓN GENERAL**
 
 <div align="center">
   
@@ -113,6 +113,7 @@ Se puede usar la representación fasorial cuando:
 
 - Un fasor es una representación gráfica de un número complejo que se utiliza para representar una oscilación, de forma que el fasor suma de varios fasores puede representar la magnitud y fase de la oscilación resultante de la superposición de varias oscilaciones en un proceso de interferencia.
 - Los fasores se utilizan directamente en ingeniería eléctrica, óptica, ingeniería de telecomunicaciones y acústica. La longitud del fasor da la amplitud y el ángulo entre el mismo y el eje-x la fase angular. Debido a las propiedades de la matemática de oscilaciones, en electrónica los fasores se utilizan habitualmente en el análisis rudimentario de circuitos en AC. Finalmente, los fasores pueden ser utilizados para describir el movimiento de un oscilador. 
+- Se pudo reforzar lo expuesto en clase mediante ejercicios básicos resueltos y de esta manera poder despejar cualquier duda generada en nuestros compañeros.
 
 
 # 7 BIBLIOGRAFÍAS
