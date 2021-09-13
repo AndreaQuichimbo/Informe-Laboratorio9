@@ -109,6 +109,9 @@ Se puede usar la representación fasorial cuando:
 
 **4.5.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.**
 
+![1](https://user-images.githubusercontent.com/84587172/133165849-3f0f7082-353b-4f9a-be9f-7865fb94a54b.png)
+
+
 **4.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.**
 
 # 5 VIDEO 
