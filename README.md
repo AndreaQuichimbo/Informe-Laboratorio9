@@ -113,6 +113,7 @@ Se puede usar la representación fasorial cuando:
 
 ![2](https://user-images.githubusercontent.com/84587172/133165869-a9491835-9aae-42ed-a985-28ca14446c0c.png)
 
+![3](https://user-images.githubusercontent.com/84587172/133165885-20b17f1d-f9f2-4078-ba79-595a9e6ce16b.png)
 
 **4.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.**
 
