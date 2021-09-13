@@ -121,6 +121,16 @@ Se puede usar la representación fasorial cuando:
 
 **4.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.**
 
+<div align="center">
+  
+![1](https://user-images.githubusercontent.com/84587172/133172130-8460d047-d6c2-4a41-9413-eb6131ed1d97.png)
+
+![2](https://user-images.githubusercontent.com/84587172/133172134-768914eb-e4f7-4fd0-8340-f45fb5a1e078.png)
+
+![3](https://user-images.githubusercontent.com/84587172/133172136-cbd97641-984d-4a34-840e-090962c9661a.png)
+
+</div>
+
 # 5 VIDEO 
 
 # 6 CONCLUSIONES 
