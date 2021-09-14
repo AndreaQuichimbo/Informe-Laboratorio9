@@ -158,6 +158,8 @@ Se puede usar la representación fasorial cuando:
 Podemos observar que los resultados obtenidos en la calculadora  son aproximados a los calculados con un ligero margen de error.
 # 5 VIDEO 
 
+https://youtu.be/QWG_9VDLMyI
+
 # 6 CONCLUSIONES 
 
 - Un fasor es una representación gráfica de un número complejo que se utiliza para representar una oscilación, de forma que el fasor suma de varios fasores puede representar la magnitud y fase de la oscilación resultante de la superposición de varias oscilaciones en un proceso de interferencia.
