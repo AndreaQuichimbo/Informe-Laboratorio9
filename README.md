@@ -129,8 +129,8 @@ Se puede usar la representación fasorial cuando:
 
 ![3](https://user-images.githubusercontent.com/84587172/133172136-cbd97641-984d-4a34-840e-090962c9661a.png)
 
- Podemos observar que los resultados obtenidos en la calculadora son aproximados a los obtenidos con un ligero margen de error.
 </div>
+Podemos observar que los resultados obtenidos en la calculadora son aproximados a loa calculados son un ligero margen de error.
 
 # 5 VIDEO 
 
