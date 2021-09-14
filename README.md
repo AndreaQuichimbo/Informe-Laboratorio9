@@ -105,7 +105,31 @@ Se puede usar la representación fasorial cuando:
 
 **4.5.1. Transforme a su forma polar:**
 
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/133283939-8e141e30-68e0-462d-a139-f3c09b38348d.png)
+
+![image](https://user-images.githubusercontent.com/84587293/133284054-97c0c0bd-252e-4c5a-89d2-e22c6604dea0.png)
+
+![image](https://user-images.githubusercontent.com/84587293/133284115-17192a59-6acf-4735-a6f6-e8c7a819dc76.png)
+
+![image](https://user-images.githubusercontent.com/84587293/133284283-6f1af6f9-444b-4aea-afbe-8f155cfbbb9e.png)
+  
+ </div> 
+  
 **4.5.2 Transforme a su forma rectangular:**
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/133284462-ba4626b9-744e-4a92-a05c-709b23ef91fe.png)
+
+![image](https://user-images.githubusercontent.com/84587293/133284511-e6ee35a7-094e-429f-a495-1b119197c51a.png)
+
+![image](https://user-images.githubusercontent.com/84587293/133284564-1cad0b00-1369-41ff-aed2-cde6a3ac205e.png)
+
+![image](https://user-images.githubusercontent.com/84587293/133284612-b112da8b-b7c4-46c7-be71-be5d0b2a7195.png)
+
+ </div> 
 
 **4.5.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.**
 
